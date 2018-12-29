@@ -16,7 +16,6 @@ Digunakan untuk menyimpan data-data form, pertanyaan, serta datanya.
 
 # 3. PENJELASAN PROGRAM
 
-Fungsi-fungsi yang digunakan pada program 
 1. Main Program  
 Terdapat daftar pilihan menu pada menu utama yaitu 1. buat form baru, 2. isi form yang sebelumnya pernah dibuat, 3. hasil form yang sebelumnya pernah dibuat.
 a. Menu buat form baru, disini pengguna dapat memasukan nama form dan penjelasannnya. Lalu, pengguna dapat memilih bentuk form yang diinginkan seperti pertanyaan multiple choice ataupun pertanyaan skalar. Setelah itu, pengguna dapat melihat preview, menyimpan dan selesai, dan menghapus form.
